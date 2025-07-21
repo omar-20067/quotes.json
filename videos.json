@@ -1,0 +1,14 @@
+[
+  {
+    "title": "فيديو تحفيزي 1",
+    "video_url": "https://example.com/video1.mp4"
+  },
+  {
+    "title": "فيديو تحفيزي 2",
+    "video_url": "https://example.com/video2.mp4"
+  },
+  {
+    "title": "فيديو تحفيزي 3",
+    "video_url": "https://example.com/video3.mp4"
+  }
+]
